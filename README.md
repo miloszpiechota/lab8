@@ -23,6 +23,8 @@
 
 ## 4. Zbudowanie obrazu po modyfikacji pliku package.json w którym użyto bezpiecznych wersji zidentyfikowanych pakietów.
 
+![image](https://github.com/miloszpiechota/lab8/assets/161620373/75189c19-00a3-475e-9b5a-6012dc8e7e3d)
+
 ![image](https://github.com/miloszpiechota/lab8/assets/161620373/fd628409-6b04-4236-b543-cf983d1e08ae)
 
 
